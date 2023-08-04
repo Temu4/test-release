@@ -1,0 +1,11 @@
+{
+  "name": "test-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Temu4/test-release.git",
+  "author": "Artem Vorobiov <artem.vorobjov@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"build script\""
+  }
+}
