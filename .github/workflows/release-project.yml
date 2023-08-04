@@ -18,3 +18,4 @@ jobs:
           release-type: node
           package-name: release-please-actions
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
+          pull-request-title-pattern: 'Release ${version} :rocket:'
