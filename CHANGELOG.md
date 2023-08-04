@@ -1,13 +1,5 @@
 # Changelog
 
-## [1.1.2](https://github.com/Temu4/test-release/compare/v1.1.1...v1.1.2) (2023-08-04)
-
-
-### Bug Fixes
-
-* **docs:** update readme 5.2 ([5e5ece3](https://github.com/Temu4/test-release/commit/5e5ece352f9b47864fd7ca529e534403724d976a))
-* **docs:** update release PR title ([f5363c9](https://github.com/Temu4/test-release/commit/f5363c9490076afb991b47282fd9bb75eceea319))
-
 ## [1.1.1](https://github.com/Temu4/test-release/compare/v1.1.0...v1.1.1) (2023-08-04)
 
 ### Bug Fixes
